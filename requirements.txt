@@ -1,8 +1,8 @@
 av==11.*
-ctranslate2>=4.0,<5
+ctranslate2>=4.0
 huggingface_hub>=0.13
-tokenizers>=0.13,<0.16
-onnxruntime>=1.14,<2 
+tokenizers>=0.19,<0.20
+onnxruntime>=1.14 
 transformers
 pyannote-audio>=3.1.1
 pandas>=2.1.4
